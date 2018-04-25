@@ -2,7 +2,7 @@
 
 $teste = "Meu primeiro programa no GIT";
 
-
+$x = "minha primeira alteração";
 
 echo $teste;
 ?>
